@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Tanarurkerem Calendar feature.
+ */
+
+include_once 'tanarurkerem_calendar.features.inc';
